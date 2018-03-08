@@ -109,13 +109,12 @@ h3 {
 }
 
 
+
 /* sidebar */
 
 .sidebar {
   background: #fff;
   padding: 15px 30px 30px 30px;
-  width: 100%;
-  max-width: 270px;
   float: right;
   border: 1px solid #ddd;
 }
@@ -147,7 +146,6 @@ h2 {
     height: 50px;
     font-size: 12px;
   }
-
 
 
 /* Portfolio */
